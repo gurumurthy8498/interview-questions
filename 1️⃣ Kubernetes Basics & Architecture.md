@@ -8,7 +8,7 @@ What are the key components of the Kubernetes architecture?
 Explain the role of Kubelet, Kube-proxy, API Server, Controller Manager, Scheduler, etcd.
 
 How do Master and Worker nodes communicate?
-
+xcv 
 What is a Pod, and why is it the smallest deployable unit?
 
 What is a Namespace, and why is it useful?
