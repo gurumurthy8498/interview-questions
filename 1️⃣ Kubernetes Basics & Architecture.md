@@ -1,4 +1,4 @@
-1️⃣ Kubernetes Basics & Architecture
+1️⃣ Kubernetes Basics & Architectureeeeeeeeeeeeeeeeeeeeeeeee
 ✅ Covers: What is Kubernetes, components, cluster setup, architecture, and key concepts.
 
 What is Kubernetes, and why is it used in DevOps?
